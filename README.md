@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi there I´m Daniel Alvarez 👋
+
+- 🔭 I’m Senior Full-Stack Engineer (Laravel) with 10+ years of experience building end-to-end web applications using Laravel, Blade, and Livewire.. Strong focus on backend architecture, REST APIs, security, and performance, with solid experience on modern frontend integrations.
+
 
 <!--
 **dAlvarezDev/dAlvarezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
