@@ -2,23 +2,28 @@
   <img src="header.png" alt="Daniel Álvarez — Full-Stack Developer" width="100%">
 </p>
 
-# Daniel Álvarez — Full-Stack Software Developer
+# Daniel Alvarez — Full-Stack Software Developer
 
-Full-Stack Developer with 10+ years of experience building secure, scalable, and mission-critical web applications.  
-Strong focus on **Laravel**, **Livewire**, **Blade**, **MySQL**, and modern frontend stacks.  
-Proven track record delivering high-impact solutions for hospitals, research institutions, and enterprise organizations.
+Full-Stack Developer with 10+ years of experience building mission-critical software solutions for the **medical, hospital, research, and enterprise sectors**.  
+Founder of **Black Horse Technologies**, a company dedicated to high-impact software development and the technological infrastructure behind major **medical congresses**, both physical and digital.
 
-Currently open to hybrid or on-site opportunities in the **Atlanta / Alpharetta** area.
+Strong focus on **Laravel**, **Livewire**, **Blade**, **MySQL**, system architecture, secure workflows, and enterprise integrations.
+Proven track record delivering scalable platforms for institutions, hospitals, associations, and specialized medical organizations across Mexico and South America.
+I have solid experience **leading and managing development teams**, coordinating IT operations, and driving complex projects from planning to execution.
+
+Currently open to hybrid or on-site opportunities in the **Atlanta / Alpharetta / Roswell** area.
 
 ---
 
 ## 🧠 Core Expertise
-- End-to-end application development (Laravel ecosystem)  
-- API design, authentication, and enterprise systems integration  
-- Modular architecture and clean-code engineering  
-- SQL modeling, performance tuning, and data workflows  
-- RBAC, workflows, dashboards, auditing and secure operations  
+- End-to-end development of web platforms using the Laravel ecosystem  
+- **Leadership of technical teams**, task delegation, and project supervision  
+- Systems architecture for hospitals, medical associations, and clinical workflows  
+- API design, authentication, RBAC, and high-security user flows
 - High-availability backend development  
+- Database modeling, SQL optimization, and large-scale information systems  
+- IT strategy, infrastructure, and digital operations for organizations  
+- Technology leadership for large medical events (virtual + onsite)
 
 ---
 
@@ -43,6 +48,89 @@ Currently open to hybrid or on-site opportunities in the **Atlanta / Alpharetta*
 
 ---
 
+
+## 🏥 Experience in the Medical & Hospital Sector
+
+- Development of **Electronic Health Records (EHR / Expedientes Clínicos)**
+- Hospital administration systems: appointments, studies, billing, roles, reporting  
+- Medical billing & invoicing platforms
+- - Patient flow and study management modules  
+- Interoperability and API integrations  
+- Clinical evaluation and scoring systems for medical committees  
+- Information systems for national medical associations  
+- End-to-end IT operations for medical congresses (streaming, virtual modules, voting, digital accreditation)
+- **Management of multidisciplinary teams** in technical, operational, and production areas
+
+
+---
+
+## 📌 Highlighted Projects
+
+### **Black Horse Technologies — Founder / Lead Developer**
+Since 2012  
+- Specialized software development for hospitals, clinics, and medical associations  
+- End-to-end IT infrastructure for national and international medical congresses  
+- Systems for registration, accreditation, digital voting, scoring, streaming, and analytics  
+- Leadership and coordination of multidisciplinary technical teams  
+- Strategic technology partner for multiple medical institutions across Mexico and Latin America  
+
+---
+
+### **HENDOLAT — IT Director (7+ Years)**
+Management of all information technology for **HENDOLAT**, the most important **vascular and endovascular medical organization in Latin America**.  
+- Digital platforms for international congresses  
+- Virtual and hybrid events infrastructure  
+- Registration, accreditation, certification, and on-site technology operations  
+- High-availability systems for scientific programs and speaker management  
+
+---
+
+### **Academia Mexicana de Cirugía — IT Management (5 Years)**
+Lead of technological operations for one of Mexico’s most prestigious medical institutions, representing all surgical specialties nationwide and serving as an advisory body to the Mexican government in health matters.  
+- Digital transformation and platform modernization  
+- Membership management and academic certification systems  
+- IT operations for national assemblies, academic sessions, and congresses  
+
+---
+
+### **Asociación Mexicana de Genética Humana (AMGH) — Technology Lead**
+- Development of evaluation and scoring platforms for academic committees  
+- Registration, voting, and scientific program management  
+- Tools for national and Latin American congresses  
+**Stack:** Laravel, Livewire, MySQL  
+
+---
+
+### **Asociación Mexicana de Pie Diabético — IT Operations**
+- Digital membership platform  
+- Event and congress technology  
+- Content and certification workflows  
+
+---
+
+### **Asociación Mexicana de Atención y Apoyo a Grupos Vulnerables — IT Management**
+- Online systems for training, education, and community programs  
+- Infrastructure for multi-state events and initiatives  
+
+---
+
+### **Hospital & Clinical Systems**
+Experience implementing and developing technology for multiple hospitals, including:  
+**Hospital San Lucas**,  
+**Hospital Montecarlo**,  
+**Hospital Holwell**,  
+**Hospital Caso**,  
+among others.
+
+### **Beyond Health — Medical Tourism System**
+- Patient intake  
+- Recommended studies  
+- Admin dashboards  
+- Mobile-first UX  
+**Stack:** Laravel, React Native, MySQL  
+
+---
+
 ## 📈 Professional Development
 - Improving English proficiency for U.S. engineering environments  
 - Advancing architecture practices (modular design, DDD-lite)  
@@ -59,7 +147,8 @@ Currently open to hybrid or on-site opportunities in the **Atlanta / Alpharetta*
 ---
 
 ## 🤝 Professional Statement
-Focused, reliable, and committed Full-Stack Developer with strong engineering discipline and a passion for building performant, maintainable, and scalable systems.  
-I bring clarity, structure, and execution to teams that depend on robust software delivery.
+Focused, reliable, and execution-driven Full-Stack Developer with **strong leadership experience** and deep expertise in the medical and hospital ecosystem.  
+I bring 10+ years of delivering robust, maintainable, and scalable systems that support real-world clinical workflows, medical associations, and high-impact events.
 
 Open to collaboration and new opportunities.
+
