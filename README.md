@@ -31,7 +31,8 @@ Currently open to hybrid or on-site opportunities in the **Atlanta / Alpharetta 
 
 **Backend**
 - PHP 8+, Laravel 8–11  
-- Livewire · Blade Components  
+- Livewire · Blade Components
+- Node.js (Express)
 - REST APIs · Sanctum · Queues & Jobs  
 - MySQL · PostgreSQL · MariaDB · SqlServer
 
